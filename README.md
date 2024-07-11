@@ -16,13 +16,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](./screenshot/desktop.jpeg)
-![](./screenshot/mobile-iPhoneSE.png)
+![](./screenshot/iphoneSE-mobile.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+- Live Site URL: [Add live site URL here](https://lescano713.github.io/QrComponent/)
 
 
 ## Built with
